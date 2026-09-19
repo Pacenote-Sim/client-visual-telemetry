@@ -1,0 +1,8 @@
+{
+  "name": "visual-telemetry",
+  "kind": "companion",
+  "title": "Visual telemetry",
+  "description": "Sends every lap you finish to be drawn, and lists the charts: speed, revs, pedals and the line round the circuit, one per lap or the stint overlaid.",
+  "interface_version": 1,
+  "server_plugin": "visual-telemetry"
+}
